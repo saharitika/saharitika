@@ -8,4 +8,4 @@ My own project initiative: https://www.linkedin.com/company/olympian-edtech/?vie
 
 Looking forward for new experience's in my life!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saharitika&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saharitika&repo=github-readme-stats)](https://github.com/saharitika/github-readme-stats)
