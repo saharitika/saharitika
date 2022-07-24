@@ -18,7 +18,9 @@ Skills: Data Science / ML / JS / HTML / CSS / Python / R / C / SQL
 - 👯 I’m looking to collaborate on ML / Data Science 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saharitika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ritika Sawhney Saha/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saharitika)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/RitikaSawhneySaha/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saharitika)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharitika)](https://github.com/anuraghazra/github-readme-stats)
 
